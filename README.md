@@ -1,2 +1,11 @@
 # Leetcode-Problems
-Repository for Leetcode solutions
+## Objective:
+Learn Data Structures and Algorithms
+
+## File Structure:
+```
+Big-O/
+    └── Intro.md
+Linked-List/
+README.md
+```
